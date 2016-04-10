@@ -1,0 +1,9 @@
+C:\Проекты\C#\Test_button\Test_button\obj\Debug\Test_button.csprojResolveAssemblyReference.cache
+C:\Проекты\C#\Test_button\Test_button\obj\Debug\Test_button.Properties.Resources.resources
+C:\Проекты\C#\Test_button\Test_button\obj\Debug\Test_button.csproj.GenerateResource.Cache
+C:\Проекты\C#\Test_button\Test_button\obj\Debug\Test_button.Form1.resources
+C:\Проекты\C#\Test_button\Test_button\bin\Debug\Tic tac toe.exe.config
+C:\Проекты\C#\Test_button\Test_button\bin\Debug\Tic tac toe.exe
+C:\Проекты\C#\Test_button\Test_button\bin\Debug\Tic tac toe.pdb
+C:\Проекты\C#\Test_button\Test_button\obj\Debug\Tic tac toe.exe
+C:\Проекты\C#\Test_button\Test_button\obj\Debug\Tic tac toe.pdb
